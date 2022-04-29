@@ -1,0 +1,13 @@
+C:\peshkhoev\bin\Debug\Database1.mdf
+C:\peshkhoev\bin\Debug\Database1_log.ldf
+C:\peshkhoev\bin\Debug\peshkhoev.exe.config
+C:\peshkhoev\bin\Debug\peshkhoev.exe
+C:\peshkhoev\bin\Debug\peshkhoev.pdb
+C:\peshkhoev\obj\Debug\peshkhoev.csproj.AssemblyReference.cache
+C:\peshkhoev\obj\Debug\peshkhoev.csproj.SuggestedBindingRedirects.cache
+C:\peshkhoev\obj\Debug\peshkhoev.Form1.resources
+C:\peshkhoev\obj\Debug\peshkhoev.Properties.Resources.resources
+C:\peshkhoev\obj\Debug\peshkhoev.csproj.GenerateResource.cache
+C:\peshkhoev\obj\Debug\peshkhoev.csproj.CoreCompileInputs.cache
+C:\peshkhoev\obj\Debug\peshkhoev.exe
+C:\peshkhoev\obj\Debug\peshkhoev.pdb
